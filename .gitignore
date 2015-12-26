@@ -5,3 +5,6 @@ chapter5/
 LDA.ipynb
 PCA.ipynb
 .ipynb_checkpoints/
+*.gz
+*.pyc
+
